@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    color:whitesmoke;
+    margin: 2% 2%;
+  }
+  header {
+    background-color: darkcyan;
+    height: 200px;
+    margin-bottom: 1%;
+  }
+  Footer {
+    height: 200px;
+    background-color: darkcyan;
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    padding-top: 100px;
+  }
